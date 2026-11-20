@@ -1,3 +1,24 @@
+Лабораторная работа №1: Исследовательский анализ данных (EDA)
+
+Инструкция по запуску:
+
+1. Клонируйте репозиторий и перейдите в папку проекта.
+
+2. Создайте виртуальное окружение и активируйте его:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+3. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+
+4. Запустите веб-приложение:
+   ```bash
+   python run.py
+
+5. Собственный исследовательский анализ(notebooks/01-eda.ipynb) запускается через Jupyter Notebook или VS Code (с выбранным ядром .venv)
+
 # Fish Dimensions Regression Analysis
 
 ### Introduction
